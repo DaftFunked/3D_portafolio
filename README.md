@@ -1,4 +1,4 @@
-# 3D_portafolio
+# 3D portafolio
 I developed a 3D portfolio in such a way that my acquired skills can be demonstrated for the implementation of this.
 
 ## <a name="introduction">🤖 Introduction</a>
